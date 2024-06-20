@@ -1,2 +1,2 @@
 # deneme
-deneme
+Bu kod özeldir 
